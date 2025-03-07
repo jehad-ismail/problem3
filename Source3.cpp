@@ -12,7 +12,7 @@ int main()
 	cout << "your age is :   " <<age;
 
 
-
-
 	return 0;
 }
+//Ask the user to enter their birth year and the current year, then calculate
+and display their age.
